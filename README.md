@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-hero-light.png">
-  <img alt="bububi. — Alexander, AI Automation & Backend Developer" src="assets/profile-hero-dark.png" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/meadow-night.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/meadow-night.gif">
+  <img alt="bububi. — Alexander, AI Automation & Backend Developer" src="assets/meadow-night.gif" width="1200">
 </picture>
 
 ### Practical systems. Real business problems.
